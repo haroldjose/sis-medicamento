@@ -1,7 +1,7 @@
 # Sistema Medicamentos
 
 #### maestrante: Harold Joseph Sanchez Nogales
-#### Descargar apk aplicación:   [app-release.apk](build\app\outputs\flutter-apk\sistema-harold-sanchez.apk)
+#### Descargar apk aplicación:   [app-release.apk](https://drive.google.com/drive/folders/1YqFIpQI1UxAjoRcH-TMIX0nNG1e8TFjJ?usp=sharing)
 
 En la aplicación se puede registrar dos usuarios **Administrador** y **Doctor**.
 
